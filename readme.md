@@ -16,6 +16,7 @@ An intuitive suite of tweaks and tools for WordPress that allow you to penetrate
     
 ### Included Modules
 
+* [Disable Embeds](https://github.com/littlebizzy/disable-embeds)
 * Disable Google Fonts
 * Disable Google Maps
 
