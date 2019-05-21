@@ -2,15 +2,22 @@
 
 An intuitive suite of tweaks and tools for WordPress that allow you to penetrate the Great Firewall Of China and appease the communist overlords.
 
-* [Plugin Homepage (LittleBizzy.com)](https://www.littlebizzy.com/plugins/genghis-khan)
-* [Free Facebook Group](https://www.facebook.com/groups/littlebizzy/)
+* [Plugin Homepage](https://www.littlebizzy.com/plugins/genghis-khan)
+* [Download Latest Version (ZIP)](https://github.com/littlebizzy/genghis-khan/archive/1.0.0.zip)
+* [**Become A LittleBizzy.com Member Today!**](https://www.littlebizzy.com/members)
 
 ### Defined Constants
 
-    /* Plugin Meta */
-    define('DISABLE_NAG_NOTICES', true);
+    /** Plugin Meta */
+    define('AUTOMATIC_UPDATE_PLUGINS', false); // default = false
+    define('DISABLE_NAG_NOTICES', true); // default = true
     
-    /* Genghis Khan Functions */
+    /** Genghis Khan Functions */
+    
+### Included Modules
+
+* Disable Google Fonts
+* Disable Google Maps
 
 ### Our Philosophy
 
